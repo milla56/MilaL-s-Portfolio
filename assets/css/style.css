@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+
+}
+
+:root {
+    --prime: #fff;
+    --second: #333;
+    --main: #754ef9;
+
+}
+
+body{
+    background: var(--prime);
+    color: var(--second);
+    overflow-x: hidden;
+}
